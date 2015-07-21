@@ -1,0 +1,51 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "bourbon/bourbon", "neat/neat";
+
+$uts_main_color: #ffc107;
+$uts_background: #fcfcfc;
+
+body {
+	font-family: $roboto;
+	background: $uts_background;
+}
+
+.page {
+	@include outer-container;
+	background: $uts_background;
+	padding: 3em 0 5em;
+}
+
+.uts_main_content {
+	@include row();
+}
+
+.uts_left_panel {
+	@include media(769px) {
+		@include span-columns(7);
+	}
+
+}
+
+.uts_right_panel {
+	@include media(769px) {
+		@include span-columns(5);
+	}
+	border-bottom: 5px solid $uts_main_color;
+	padding-top:3em;
+}
+
+
+header {
+	@include fill-parent();
+	p { padding: 0.5em 0; }
+}
+
+footer {
+	color: #333;
+
+}

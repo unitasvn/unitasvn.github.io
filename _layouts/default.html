@@ -1,0 +1,39 @@
+---
+int_css:
+- "css/main.css"
+
+ext_css:
+- "http://fonts.googleapis.com/css?family=Roboto:400,300,700,300italic,400italic,700italic&subset=latin,vietnamese,latin-ext"
+- "//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+
+js:
+- "js/jquery.min.js"
+- "js/materialize.min.js"
+
+---
+
+<!DOCTYPE html>
+<html>
+
+  {% include base_head.html %}
+
+  <body>
+
+    <div class="page">
+    	<div class="uts_main_content">
+	    	<div class="uts_left_panel">
+	    			{{ content }}
+	    	</div>
+	    	<div class="uts_right_panel">
+	    		{% include uts_header.html %}
+	    	</div>
+    	</div>
+
+
+    </div>
+
+    {% include base_foot.html %}
+
+  </body>
+
+</html>

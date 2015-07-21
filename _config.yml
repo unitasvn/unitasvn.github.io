@@ -1,0 +1,11 @@
+# Site settings
+title: unitas vietnam
+email: nikenhn@gmail.com
+description: printing service
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.unitas.vn" # the base hostname & protocol for your site
+twitter_username: nikenhn
+github_username:  xabeng
+
+# Build settings
+markdown: kramdown
