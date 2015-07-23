@@ -39,6 +39,20 @@ body {
 	padding-top:3em;
 }
 
+p.intro {
+	margin-top: 1em;
+	padding-bottom: 2em;
+	font-size:1.2em;
+}
+
+p.underconstruction {
+	padding: 2em;
+	background: $uts_main_color;
+	color: #fff;
+	margin-bottom: 3em;
+	border-left: 5px solid #000;
+	@include span-columns(5 of 7);
+}
 
 header {
 	@include fill-parent();
