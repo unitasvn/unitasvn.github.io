@@ -20,9 +20,17 @@ js:
   <body>
 
     <div class="container">
+    <div class="row">
+    	<div class="left_panel col m12 l7">
+	    	{{ content }}
+	    </div>
 
-	    {{ content }}
+	   	<div class="right_panel col s12 m12 l5">
+	    	{% include uts_sidebar.html %}
+	    </div>
 
+
+	 </div>
 
     </div>
 
