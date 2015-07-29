@@ -12,7 +12,7 @@ intro_img: /images/offset_printing_small.jpg
 
 Unitas.vn đang biên soạn tài liệu hướng dẫn cơ bản về in ấn. Tạm đặt tên là "Dummy Dots", dịch ra tiếng Kinh là "Chuyện về bọn chấm thộn".
 
-Tài liệu được viết nhằm giúp khách hàng có được hình dung tổng thể về quy trình in ấn công nghiệp, nắm được kiến thức nền tảng, thuật ngữ chuyên ngành, những chuẩn bị cần thiết để có một sản phẩm in hoàn chỉnh, từ khâu thiết kế đến hoàn thiện sản phẩm. Ngôn từ giản dị, giải thích dí dỏm, dễ đọc dễ nhớ, có hình minh hoạ dễ hình dung. Thanh niên mười tuổi giở lên đọc tốt!
+Tài liệu được viết nhằm giúp khách hàng có được hình dung tổng thể về quy trình in ấn công nghiệp, nắm được kiến thức nền tảng, thuật ngữ chuyên ngành, những chuẩn bị cần thiết để có một sản phẩm in hoàn chỉnh, từ khâu thiết kế đến hoàn thiện sản phẩm. Ngôn từ giản dị, giải thích dí dỏm, dễ đọc dễ nhớ, minh hoạ dễ hình dung. Thanh niên mười tuổi giở lên đọc tốt!
 
 Ebook phát tán miễn phí kèm quảng cáo và chửi bậy. Phiên bản in nghiêm túc, hoàn thiện thủ công tuyệt đẹp sẽ được gửi tới tận tay nhà tài trợ với lời cảm ơn in trang trọng trên bìa.
 
