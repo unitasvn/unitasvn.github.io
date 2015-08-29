@@ -17,7 +17,28 @@ $susy: (
     @include container;
 }
 
-body { padding-bottom: 5em; }
+.left_panel {
+    // style for mobile
+    
+    // style for desktop
+    @media (min-width: 960px) {
+        @include span(7);
+    }
+}
+.right_panel {
+    // style for mobile
+    
+    //style for desktop 
+    @media (min-width: 960px) {
+        @include span(5 last);
+    }
+}
+
+body { 
+    padding-bottom: 5em;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+}
 
 header {
 	padding: 6em 0 0;
