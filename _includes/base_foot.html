@@ -1,6 +1,6 @@
 
 {% if page.js %}
   {% for jss in page.js %}
-    <script type="text/javascript" src="{{ site.url }}/{{ jss }}"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/{{ jss }}"></script>
   {% endfor %}
 {% endif %}
