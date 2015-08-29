@@ -1,6 +1,1 @@
-
-{% if page.js %}
-  {% for jss in page.js %}
-    <script type="text/javascript" src="{{ site.url }}/{{ jss }}"></script>
-  {% endfor %}
-{% endif %}
+<script type="text/javascript" src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>

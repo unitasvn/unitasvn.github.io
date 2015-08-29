@@ -7,18 +7,9 @@
     <meta name="description" content="{{ site.description }}">
 	
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
-	{% if page.int_css %}
-		{% for icss in page.int_css %}
-			<link rel="stylesheet" type="text/css" href="{{ site.url }}/{{ icss }}">
-		{% endfor %}
-	{% endif %}
-
-	{% if page.ext_css %}
-		{% for ecss in page.ext_css %}
-			<link rel="stylesheet" type="text/css" href="{{ ecss }}">
-		{% endfor %}
-	{% endif %}
-
+	
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700,300italic,400italic,700italic&subset=latin,vietnamese,latin-ext' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="{{ "/css/font-awesome.min.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
 </head>
