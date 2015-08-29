@@ -4,11 +4,11 @@
 @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "bower_components/susy/sass/susy";
+@import "susy/sass/susy";
 
 $susy: (
   columns: 12,
-  gutter: (1/4),
+  gutter: 0.25,
   container: 1120px,
   global-box-sizing: border-box,
   // debug: (image: show)
