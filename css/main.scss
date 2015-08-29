@@ -15,6 +15,9 @@ $susy: (
 
 .container {
     @include container;
+    @media (max-width: 959px) {
+        padding: 0 2em;
+    }
 }
 
 .left_panel {
