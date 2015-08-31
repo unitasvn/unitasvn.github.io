@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "susy/sass/susy";
+@import "susy";
 
 $susy: (
   columns: 12,
