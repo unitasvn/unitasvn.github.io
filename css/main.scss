@@ -19,7 +19,7 @@ $susy: (
 .divider { height: 1px; border-bottom: 1px solid #ccc; margin: 3em 0;}
 .container {
     @include container;
-    @media (max-width: 959px) {
+    @media (max-width: 1024px) {
         padding: 0 1em;
     }
 }
