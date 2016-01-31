@@ -10,13 +10,15 @@ File `>` Document Setup `>` phần Page Size
 
 ### Kiểm tra bù xén
 
-File `>` Document Setup `>` phần Bleed and Slug `>` Bleed. Bù xén mỗi phía 2-3mm.
+File `>` Document Setup `>` phần Bleed and Slug `>` Bleed.  
+Bù xén mỗi phía 2-3mm.
 
 ---
 
 ### Số trang, mục lục (nếu có)
 
-Kiểm tra vị trí đặt số trang trên masterpage. So sánh số trang của từng phần so với mục lục.
+Kiểm tra vị trí đặt số trang trên masterpage.  
+So sánh số trang của từng phần nội dung với mục lục.
 
 ---
 
