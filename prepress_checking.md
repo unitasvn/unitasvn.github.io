@@ -47,7 +47,8 @@ Chọn **Panel Option...**. Bật hiển thị cột Effective DPI. Bấm OK.
 
 ![dpi](https://dl.dropboxusercontent.com/u/335478/Screen-Shot-2016-01-31-at-8.18.08-PM.jpg)
 
-Trở lại Link Panel, kiểm tra thông số Effective DPI. Hình nào nhỏ hơn 300 thì tăng kích thước (photoshop) hoặc chọn hình khác.
+Trở lại Link Panel, kiểm tra thông số Effective DPI.  
+Hình nào chỉ số nhỏ hơn 300 thì tăng kích thước (photoshop) hoặc chọn hình khác.
 
 ---
 
