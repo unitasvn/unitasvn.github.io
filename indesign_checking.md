@@ -56,4 +56,4 @@ Hình nào chỉ số nhỏ hơn 300 thì tăng kích thước (photoshop) hoặ
 
 ### Tắt các lớp (layer) không cần thiết
 
-Tắt hoặc xóa bỏ các lớp chứa thông tin tạm thời, dùng trong quá trình thiết kế, ví dụ như khung trang, đường đánh dấu, đường gióng tạm thời... Tất cả các khung chữ, khung hình ảnh thừa trên Pasteboard (phần xám xung quan trang hiển thị) phải xóa bỏ.
+Tắt hoặc xóa bỏ các lớp chứa thông tin tạm thời, dùng trong quá trình thiết kế, ví dụ như khung trang, đường đánh dấu, đường gióng tạm thời... Tất cả các khung chữ, khung hình ảnh thừa trên Pasteboard (phần xám xung quanh trang thiết kế) phải xóa bỏ.
