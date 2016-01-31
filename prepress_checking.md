@@ -26,6 +26,9 @@ Xem Preflight Status Check trên thanh trạng thái (phía dưới cùng màn h
 
 ![error status](https://dl.dropboxusercontent.com/u/335478/Screen-Shot-2016-01-31-at-8.28.07-PM.jpg)
 
+Bấm chọn & mở Preflight Panel để xác định vị trí và sửa lỗi.  
+Khi nào hết lỗi, đèn vị trí này sẽ báo màu xanh.
+
 ---
 
 ### Liên kết với các file nguồn đầy đủ
